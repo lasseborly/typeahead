@@ -1,6 +1,6 @@
 {
   "name": "@lasseborly/typeahead",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "",
   "main": "lib/Typeahead.js",
   "scripts": {
