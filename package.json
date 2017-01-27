@@ -8,9 +8,9 @@
   },
   "author": "Pritesh Gupta",
   "license": "MIT",
-  "dependencies": {
-    "react": "0.14.1",
-    "react-dom": "0.14.1"
+  "peerDependencies": {
+    "react": "^0.14.1",
+    "react-dom": "^0.14.1"
   },
   "repository": {
     "type": "git",
